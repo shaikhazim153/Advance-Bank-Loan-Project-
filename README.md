@@ -58,19 +58,19 @@ It enables users to monitor key performance indicators (KPIs), evaluate good and
 
 *Monitor overall lending performance through key financial indicators.*
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](https://github.com/shaikhazim153/Advance-Bank-Loan-Project-/blob/main/Advance%20Bank%20Loan%20Project%20Anlysis/REPORT%201.jpeg)
 
 ### 🔵 02. Loan Overview Dashboard
 
 *Explore loan portfolio quality, application trends, and good vs. bad loan segmentation.*
 
-![Loan Overview Dashboard](Overview_Dashboard.png)
+![Loan Overview Dashboard](https://github.com/shaikhazim153/Advance-Bank-Loan-Project-/blob/main/Advance%20Bank%20Loan%20Project%20Anlysis/REPORT%201.jpeg)
 
 ### 🟢 03. Detailed Loan Analysis
 
 *Explore detailed loan metrics and investigate portfolio performance.*
 
-![Detailed Loan Dashboard](Detailed_Dashboard.png)
+![Detailed Loan Dashboard](https://github.com/shaikhazim153/Advance-Bank-Loan-Project-/blob/main/Advance%20Bank%20Loan%20Project%20Anlysis/REPORT%202.jpeg)
 
 ---
 
